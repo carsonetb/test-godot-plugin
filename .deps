@@ -1,3 +1,1 @@
-my_addon
-https://github.com/dialogic-godot/dialogic dialogic
-
+{"deps":[{"source":"https://github.com/dialogic-godot/dialogic","path":"addons/dialogic"}],"this":"addons/my_addon"}
